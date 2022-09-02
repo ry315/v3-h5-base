@@ -1,0 +1,10 @@
+{
+	"prettier.useTabs": true,
+	"prettier.endOfLine": "lf",
+	"editor.tabSize": 4,
+	"prettier.tabWidth": 4,
+	"vetur.format.defaultFormatter.html": "prettier",
+	"vetur.format.defaultFormatter.scss": "prettier",
+	"vetur.format.defaultFormatter.less": "prettier",
+	"vetur.format.defaultFormatter.js": "prettier"
+}
